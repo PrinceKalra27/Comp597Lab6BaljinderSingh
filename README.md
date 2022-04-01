@@ -1,2 +1,2 @@
 # Comp597Lab6BaljinderSingh
- Lab6
+ lab6
